@@ -1,6 +1,13 @@
 
 > Open this page at [https://sweeistaken.github.io/mousebit-microbit/](https://sweeistaken.github.io/mousebit-microbit/)
 
+please use (EDIT THIS PROJECT)
+
+requirements:
+
+micro:bit V2
+
+Elecfreaks Joystick:bit
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
